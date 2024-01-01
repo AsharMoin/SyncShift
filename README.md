@@ -51,9 +51,11 @@ SyncShift is a comprehensive employee scheduling and management application buil
 
 - Facilitate direct communication with management through an integrated chat room 
 
-## Contributing
+## APIs Used
 
-Contributions to this project are welcome! Feel free to submit issues and pull requests to help improve the extension.
+This project utilizes the following APIs:
+
+- [FullCalendar API](https://fullcalendar.io/docs) for creating and managing interactive calendars.
 
 ## License
 
