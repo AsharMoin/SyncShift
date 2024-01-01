@@ -1,0 +1,30 @@
+.title {
+    margin-top: 50px;
+
+}
+
+.employee-name {
+    margin-bottom: 20px;
+    background-color: rgba(173, 216, 230, 0.452);
+    color: black;
+    padding: 10px; /* Adjust padding as needed */
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2); /* Inner shadow effect */
+    border: 1px solid #ccc; /* 1-pixel border with a light gray color */
+    border-radius: 4px;
+    font-style: italic;
+    font-weight:700;
+}
+
+.LoadingBar {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: #333; /* Adjust the text color */
+    background-color: #fff; /* Adjust the background color */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
